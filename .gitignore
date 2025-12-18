@@ -13,7 +13,7 @@ __pycache__/
 
 # Data
 data/processed
-data/.gitkeep
+data/processed/.gitkeep
 
 # Models (weight, mean, std)
 models/
