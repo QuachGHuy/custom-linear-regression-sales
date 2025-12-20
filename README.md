@@ -1,7 +1,15 @@
 # 📈 Sales Prediction API
 
-A Machine Learning API to predict sales based on advertising budgets (TV, Radio, Newspaper).
-This project features a **custom Linear Regression algorithm built from scratch using Numpy** (no Scikit-learn models), served via **FastAPI**, and containerized with **Docker**.
+> A Machine Learning API to predict sales based on advertising budgets (TV, Radio, Newspaper). This project features a **custom Linear Regression algorithm built from scratch using Numpy** (no Scikit-learn models), served via **FastAPI**, and containerized with **Docker**.
+
+![custom-linear-regression-sales](https://socialify.git.ci/QuachGHuy/custom-linear-regression-sales/image?custom_language=Python&description=1&font=JetBrains+Mono&language=1&name=1&pattern=Formal+Invitation&theme=Dark)
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-2.3.3-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-2.3.5-013243?logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.124.4-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
+
 
 ## 🛠 Tech Stack
 - **Core:** Python, Numpy, Pandas
