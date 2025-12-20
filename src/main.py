@@ -74,7 +74,7 @@ def predict(data: Predict):
         y_predict = X_input @ w
 
         # 6. Get a result
-        result = float(y_predict[0])
+        result = round(float(y_predict[0]), 2)
 
         return Response(sales_prediction=result)
 
